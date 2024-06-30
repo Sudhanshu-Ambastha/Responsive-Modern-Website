@@ -1,14 +1,19 @@
-# SaaS-AI-Platform
+# Responsive Modern Website
 ```
-npx create-next-app@latest ai-saas --typescript --tailwind --eslint
+npx create-next-app@latest landingpage
 ```
-go to folder ai-saas via `cd ai-saas`.
+
 ```
-npx shadcn-ui@latest init
+TypeScript: Yes
+ESLint: No
+Tailwind CSS: Yes
+`src/` directory: No
+App Router: Yes
+import alias: No
 ```
-```
-npx shadcn-ui@latest add button
-```
+
+go to folder landingpage via `cd landingpage`.
+
 ```
 npm run dev
 ```
