@@ -1,6 +1,9 @@
 # Responsive Modern Website
 This project is a responsive modern website built with Next.js, TypeScript, and Tailwind CSS.
 
+## Preview
+
+<picture><img src="" width="100%"></picture>
 ## Getting Started
 To create a new Next.js project, use the following command:
 
