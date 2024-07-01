@@ -15,5 +15,9 @@ import alias: No
 go to folder landingpage via `cd landingpage`.
 
 ```
+npm install
+```
+
+```
 npm run dev
 ```
